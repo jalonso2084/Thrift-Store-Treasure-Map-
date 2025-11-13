@@ -1,0 +1,5 @@
+{
+  "name": "Thrift Store Finder",
+  "description": "An intelligent app that helps you find the best thrift stores for specific items in any location. It uses Google Maps data and Gemini to analyze reviews and provide tailored recommendations.",
+  "requestFramePermissions": []
+}
